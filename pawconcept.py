@@ -136,15 +136,15 @@ whiskerina.pawkour_move()
 print("\nFinal Challenge!")
 
 answer = input(
-    "Should Princess Whiskerina confront Sir Barksalot? (yes/no): "
+    "Should Princess Princessy Crown confront Sir Barks-a-lot? (yes/no): "
 )
 
 if answer.lower() == "yes":
     print(
-        "⚔️ Sir Barksalot has been defeated!"
+        "⚔️ Sir Barks-a-lot has been defeated!"
     )
     print(
-        "🏰 Princess Whiskerina reclaims the throne of Purrsia!"
+        "🏰 Princess Princessy Crown reclaims the throne of Purrsia!"
     )
 else:
     print(
